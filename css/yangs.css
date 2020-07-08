@@ -16,10 +16,10 @@ body {
   letter-spacing: 1.5px;
 }
 
-section {
+/* section {
   padding: 100px 0;
 }
-
+ */
 .btn,.input-group-btn {
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
