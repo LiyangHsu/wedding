@@ -15,6 +15,9 @@ body {
   font-weight: 300;
   letter-spacing: 1.5px;
 }
+h1,h2,h3,h4,h5,h6{
+  color: #FFF;
+}
 
 /* section {
   padding: 100px 0;
@@ -1163,6 +1166,10 @@ section{
   border: none;
 }
 
+.txt{
+  color: #fff;
+}
+
 
 @media (max-width: 767px) {
   header{
@@ -1237,6 +1244,7 @@ section{
 .bg_hl{background-color: rgba(77,143,160, .1)}
 .bg_w75{background-color: rgba(255,255,255,.75);}
 .p15 {padding: 15px;}
+.pt0{padding-top: 0!important;}
 .pt60{padding-top: 60px;}
 .mr15{margin-right: 15px;}
 .fc_w{color: #fff;}
@@ -1250,5 +1258,6 @@ section{
 .m0{margin: 0;}
 .w100p{width: 100%;}
 .clean{overflow: hidden;}
+.txtcenter{text-align: center;}
 
 
